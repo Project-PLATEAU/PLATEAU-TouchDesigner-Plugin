@@ -1,0 +1,425 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/PLATEAU-TouchDesigner-Plugin/PLATEAU-TouchDesigner-Plugin/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "lCQu1dZBiepa5B4GhttyKkzq6fh979aRlVRsNCWT52Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/install.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/install.html",
+          "hash": "f+sEwZ5hWo/C42n+yYDGtVBHSUUXwb6NjHeqTGEdqak="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/render.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/render.html",
+          "hash": "Jnfvl92W/NFVAAbiQ3dRKquW5PeBuSqOKeU9i0ZH9SQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/texture.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/texture.html",
+          "hash": "ZizKxt+ODgtSrn1XVkfRHuNrd5hMlEg14kXdxFsxNOo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "BDyhsAyt1T/sBwgY4Jgr0ZV2tj76J5NdCRCwBA8tCTg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/use.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/use.html",
+          "hash": "GMSZu/XoUPcBBGmZ8iS0nTdDAivNi46QY4IzYDNjazA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/cover.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/cover.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-06_141304.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-06_141304.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-06_141343.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-06_141343.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-06_141357.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-06_141357.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-06_141402.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-06_141402.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-06_141411.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-06_141411.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-06_141426.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-06_141426.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-06_141445.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-06_141445.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-06_141459.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-06_141459.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-06_141507.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-06_141507.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-06_141516.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-06_141516.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-06_141530.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-06_141530.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-06_141550.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-06_141550.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-06_141639.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-06_141639.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-30_101253.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-30_101253.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-30_101317.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-30_101317.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-30_102724.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-30_102724.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-30_102759.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-30_102759.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-09-30_102830.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-09-30_102830.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-10-24_134427.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-10-24_134427.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-11-18_101329.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-11-18_101329.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-11-18_101946.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-11-18_101946.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-11-18_102127.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-11-18_102127.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-11-18_103048.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-11-18_103048.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-11-18_104205.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-11-18_104205.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "LCLjBuuYHj93+WRG3OQ05i+Gi1XF+dqyQRdT4POvX6Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 5,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
