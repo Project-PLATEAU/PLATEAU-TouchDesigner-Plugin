@@ -1,0 +1,26 @@
+{
+	"metadata": [],
+	"build": {
+		"globalMetadata": {
+			"_appTitle": "PLATEAU-TouchDesigner-Plugin",
+			"_appFooter": "PLATEAU-TouchDesigner-Plugin",
+			"_enableSearch": true
+		},
+		"content": [
+			{
+				"files": ["toc.yml", "index.md"]
+			},
+			{
+				"src": "manual",
+				"files": ["toc.yml", "**/*.md"],
+				"dest": "manual"
+			}
+		],
+		"resource": [
+			{
+				"files": ["resources/**/*"]
+			}
+		],
+		"dest": "../.docs/_site"
+	}
+}
