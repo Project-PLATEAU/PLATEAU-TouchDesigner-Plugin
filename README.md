@@ -47,7 +47,7 @@ Ryzen 5000シリーズ以上
 ## 利用手順
 
 - ソフトウェアの最新版は、GitHubリポジトリからダウンロードしてください。
-- 詳しい利用方法については、こちらの[マニュアル](https://bassdrum-org.github.io/PLATEAU-TouchDesigner-Plugin/index.html)をご覧ください。
+- 詳しい利用方法については、こちらの[マニュアル](https://project-plateau.github.io/PLATEAU-TouchDesigner-Plugin/index.html)をご覧ください。
 
 ## 参考資料
 
