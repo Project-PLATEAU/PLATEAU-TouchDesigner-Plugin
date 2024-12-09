@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/bassdrum-org/PLATEAU-TouchDesigner-Plugin/main/docs/resources/cover.png)
+![](https://raw.githubusercontent.com/Project-PLATEAU/PLATEAU-TouchDesigner-Plugin/main/docs/resources/cover.png)
 
 # PLATEAU TouchDesigner Plugin
 

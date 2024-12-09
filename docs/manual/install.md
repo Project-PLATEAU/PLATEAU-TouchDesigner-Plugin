@@ -7,7 +7,7 @@
 
 プラグインは以下のURLからダウンロードが可能です。
 
-[https://github.com/bassdrum-org/PLATEAU-TouchDesigner-Plugin/archive/refs/heads/main.zip](https://github.com/bassdrum-org/PLATEAU-TouchDesigner-Plugin/archive/refs/heads/main.zip)
+[https://github.com/Project-PLATEAU/PLATEAU-TouchDesigner-Plugin/archive/refs/heads/main.zip](https://github.com/Project-PLATEAU/PLATEAU-TouchDesigner-Plugin/archive/refs/heads/main.zip)
 
 ダウンロードファイルはZIPファイルとして保存されるので、ダウンロード完了後にファイルを解凍します。
 すると以下のようなファイルが保存されるので、プラグインを利用する場合はこの中にある「PLATEAU-TouchDesigner-Plugin.toe」をダブルクリックで開きます。
